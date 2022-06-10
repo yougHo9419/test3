@@ -1,0 +1,70 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.5794896,
+          35.8687595
+        ]
+      },
+      "properties": {
+        "\ubc88\ud638": 1,
+        "\uc6b4\uc601\uae30\uac04": "2005.12.29",
+        "\uc7ac\ub09c\uba85": "\ub300\uad6c \uc11c\ubb38\uc2dc\uc7a5 2\uc9c0\uad6c \ud654\uc7ac\uc0ac\uace0",
+        "\uc8fc\uc18c": "\ub300\uad6c \uc911\uad6c \ud070\uc7a5\ub85c26\uae38 25",
+        "X\uc88c\ud45c": 128.5794896,
+        "Y\uc88c\ud45c": 35.8687595,
+        "\uc7ac\ub09c\uc548\uc804\ub300": "",
+        "\uc7ac\ub09c\uc548\uc804_1": "",
+        "\uc7ac\ub09c\uc548\uc804_2": "\ub300\uad6c\uad11\uc5ed\uc2dc",
+        "\uc7ac\ub09c\uc548\uc804_3": "\uc911\uad6c",
+        "\uc778\uba85\ud53c\ud574_": 4,
+        "\uc778\uba85\ud53c\ud5741": 0,
+        "\uc778\uba85\ud53c\ud574_1": 4,
+        "\uc778\uba85\ud53c\ud574_2": 0,
+        "\ud53c\ud574_\uaddc\ubaa8": "",
+        "\uc7ac\uc0b0\ud53c\ud574_": 187.0,
+        "\uc7ac\ub09c\uc720\ud615": "\ub2e4\uc911\ubc00\uc9d1\uc2dc\uc124 \ub300\ud615\ud654\uc7ac",
+        "\ud604\uc7ac_\uc7ac\ub09c": "\uad6d\ubbfc\uc548\uc804\ucc98",
+        "\ube44\uace0": "",
+        "Field20": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.1993585,
+          37.1403084
+        ]
+      },
+      "properties": {
+        "\ubc88\ud638": 27,
+        "\uc6b4\uc601\uae30\uac04": "2017.12.21",
+        "\uc7ac\ub09c\uba85": "\uc81c\ucc9c \ubcf5\ud569\uac74\ubb3c \ud654\uc7ac",
+        "\uc8fc\uc18c": "\ucda9\uccad\ubd81\ub3c4 \uc81c\ucc9c\uc2dc \ud558\uc18c\ub3d9 71-7",
+        "X\uc88c\ud45c": 128.1993585,
+        "Y\uc88c\ud45c": 37.1403084,
+        "\uc7ac\ub09c\uc548\uc804\ub300": "",
+        "\uc7ac\ub09c\uc548\uc804_1": "\uc18c\ubc29\uccad",
+        "\uc7ac\ub09c\uc548\uc804_2": "\ucda9\uccad\ubd81\ub3c4",
+        "\uc7ac\ub09c\uc548\uc804_3": "\uc81c\ucc9c\uc2dc",
+        "\uc778\uba85\ud53c\ud574_": 69,
+        "\uc778\uba85\ud53c\ud5741": 29,
+        "\uc778\uba85\ud53c\ud574_1": 40,
+        "\uc778\uba85\ud53c\ud574_2": 0,
+        "\ud53c\ud574_\uaddc\ubaa8": "\uac74\ubb3c1\ub3d9",
+        "\uc7ac\uc0b0\ud53c\ud574_": 20.7,
+        "\uc7ac\ub09c\uc720\ud615": "\ub2e4\uc911\ubc00\uc9d1\uc2dc\uc124 \ub300\ud615\ud654\uc7ac",
+        "\ud604\uc7ac_\uc7ac\ub09c": "\uc18c\ubc29\uccad",
+        "\ube44\uace0": "",
+        "Field20": ""
+      }
+    }
+    
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "..\\node_modules\\geotiff\\src\\compression\\index.js -> ./deflate": {
+    "id": "..\\node_modules\\geotiff\\src\\compression\\index.js -> ./deflate",
+    "files": [
+      "static/chunks/node_modules_geotiff_src_compression_deflate_js.js"
+    ]
+  },
+  "..\\node_modules\\geotiff\\src\\compression\\index.js -> ./jpeg": {
+    "id": "..\\node_modules\\geotiff\\src\\compression\\index.js -> ./jpeg",
+    "files": [
+      "static/chunks/node_modules_geotiff_src_compression_jpeg_js.js"
+    ]
+  },
+  "..\\node_modules\\geotiff\\src\\compression\\index.js -> ./lerc": {
+    "id": "..\\node_modules\\geotiff\\src\\compression\\index.js -> ./lerc",
+    "files": [
+      "static/chunks/node_modules_geotiff_src_compression_lerc_js.js"
+    ]
+  },
+  "..\\node_modules\\geotiff\\src\\compression\\index.js -> ./lzw": {
+    "id": "..\\node_modules\\geotiff\\src\\compression\\index.js -> ./lzw",
+    "files": [
+      "static/chunks/node_modules_geotiff_src_compression_lzw_js.js"
+    ]
+  },
+  "..\\node_modules\\geotiff\\src\\compression\\index.js -> ./packbits": {
+    "id": "..\\node_modules\\geotiff\\src\\compression\\index.js -> ./packbits",
+    "files": [
+      "static/chunks/node_modules_geotiff_src_compression_packbits_js.js"
+    ]
+  },
+  "..\\node_modules\\geotiff\\src\\compression\\index.js -> ./raw": {
+    "id": "..\\node_modules\\geotiff\\src\\compression\\index.js -> ./raw",
+    "files": [
+      "static/chunks/node_modules_geotiff_src_compression_raw_js.js"
+    ]
+  },
+  "mapview.tsx -> ../components/mapview/Maps": {
+    "id": "mapview.tsx -> ../components/mapview/Maps",
+    "files": [
+      "static/chunks/components_mapview_Maps_tsx.js"
+    ]
+  }
+}

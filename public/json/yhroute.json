@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [127.0502189, 37.544607],
+          [127.0502189, 37.544607]
+        ]
+      },
+      "properties": {
+        "BuildId": "0",
+        "EvacuId": "5",
+        "Length": 246.4837237960021,
+        "RouteId": "5"
+      }
+    }
+  ]
+}
